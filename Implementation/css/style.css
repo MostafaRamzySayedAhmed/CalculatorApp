@@ -1,0 +1,74 @@
+/* General Rules */
+
+body
+{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+/* Rules For The Message Related To The Resulting Message */
+
+.message
+{
+	position: relative;
+	top: 20px;
+	left: 100px;
+	font-weight: bold;
+	font-size: 25px;
+	color: #DDD;
+	background-color: #009432;
+	border: 1px solid #DDD;
+	border-radius: 5px;
+}
+
+/* Rules For Error Message Related To The Division By Zero Operation */
+
+.error
+{
+	position: relative;
+	top: 20px;
+	left: 100px;
+	font-weight: bold;
+	font-size: 25px;
+	color: #DDD;
+	background-color: #F00;
+	border: 1px solid #DDD;
+	border-radius: 5px;
+}
+
+/* Rules For The Labels */
+
+.form-horizontal .control-label
+{
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+/* Rules For The Error Messages Related To The Operator */
+
+.error-message-operator, .alert-danger, .alert
+{
+	position: absolute;
+	top: 450px;
+	left: 70px;
+}
+
+/* Rules For The Error Messages Related To The Operation */
+
+.error-message-operation, .alert-danger, .alert
+{
+	position: absolute;
+	top: 450px;
+	left: 70px;
+}
+
+/* Rules For The Font Awesome Icons */
+
+.fa, .fas
+{
+	position: relative;
+	left: 10px;
+	font-size: 15px;
+	color: #097201;
+}
