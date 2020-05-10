@@ -1,8 +1,5 @@
 # Calculator
 
-This Is a Simple Calculator Which Provides The Four Basic Arithmetic Operations
-(Addition, Subtraction, Multiplication & Division), It's Built on HTML, HTML5, CSS, CSS3, 
-Font-Awesome CSS Library, Bootstrap & PHP.
+It’s a Responsive Web App Built on HTML, CSS, Bootstrap & PHP,
 
-**It Provides Full Validation For All Of The Input Fields Depending on
-Both Client-Side & Server-Side Validations.**
+**It Provides the Basic Arithmetic Operations in a Fully Validated Form Using Both Client-Side & Server-Side Validations.**
