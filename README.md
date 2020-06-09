@@ -1,5 +1,16 @@
 # Calculator
+It is a Simple Web App Providing the Four Basic Aritmatic Operations (Addition, Subtraction, Multiplication & Division) with Full Validation for All of the Input Fields Depending on Both Client Side & Back-End Side Validations.
 
-It’s a Responsive Web App Built on HTML, CSS, Bootstrap & PHP,
+# The Features
+* The Responsive, Simple & Classic Design
+* Full Validation for All of the Input Fields.
+* The Validation is Divided into Two Basic Categories: **Client-Side & Server-Side**.
 
-**It Provides the Basic Arithmetic Operations in a Fully Validated Form Using Both Client-Side & Server-Side Validations.**
+# The Used Technologies
+* HTML
+* HTML5
+* CSS
+* CSS3
+* jQuery
+* Bootstrap
+* PHP
