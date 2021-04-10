@@ -14,3 +14,4 @@ It is a Simple Web App Providing the Four Basic Arithmetic Operations (Addition,
 * jQuery
 * Bootstrap
 * PHP
+.
