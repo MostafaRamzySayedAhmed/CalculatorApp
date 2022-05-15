@@ -1,4 +1,4 @@
-# Calculator
+# Calculator App
 It is a Responsive Web App.
 
 # The Features
