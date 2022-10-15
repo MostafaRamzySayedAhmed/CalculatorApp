@@ -8,9 +8,7 @@ It's a Responsive Web App.
 
 # The Used Technologies
 * HTML
-* HTML5
 * CSS
-* CSS3
 * jQuery
 * Bootstrap
 * PHP
