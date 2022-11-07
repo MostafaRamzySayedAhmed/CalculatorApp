@@ -2,7 +2,7 @@
 It's a Responsive Web App.
 
 # The Features
-* The Responsive,& Classic Design.
+* The Responsive & Classic Design.
 * Full Validation for All Input Fields.
 * The Validation is Divided into Two Basic Categories: Client-Side & Server-Side Validations.
 
