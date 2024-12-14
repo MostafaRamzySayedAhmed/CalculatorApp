@@ -1,5 +1,5 @@
 # Calculator App
-It's a Responsive Web App.
+It's a Responsive Web App
 
 # The Features
 * The Responsive & Classic Design.
